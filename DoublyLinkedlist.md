@@ -1,7 +1,7 @@
 ## Doubly Linked List : 
 
 ```cpp
-#include <iostream>
+ #include <iostream>
 using namespace std;
 
 class node
@@ -11,8 +11,7 @@ public:
     node* next;
     node* prev;
 
-    node(int val) : data(val), next(nullptr), prev(nullptr) {}
-};
+ };
 
 node* deletenode(node* head, int data)
 {
@@ -41,7 +40,8 @@ node* deletenode(node* head, int data)
 
 node* add(node* head, int data, int position)
 {
-    node* temp = new node(data);
+    node* temp = new node();
+    temp->data = data;
 
     if (position == 0 || head == nullptr)
     {
@@ -99,7 +99,7 @@ int main()
         if (head == nullptr)
         {
             cout << "Enter data in " << i + 1 << " Node: ";
-            head = new node(0);
+            head = new node();
             cin >> head->data;
             head->next = nullptr;
             head->prev = nullptr;
@@ -108,7 +108,7 @@ int main()
         else
         {
             cout << "Enter data in " << i + 1 << " Node: ";
-            temp = new node(0);
+            temp = new node();
             cin >> temp->data;
             temp->next = nullptr;
             temp->prev = p;
