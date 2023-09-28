@@ -105,7 +105,10 @@ int main() {
             case 1:
                 cout << "Enter a value to add: ";
                 cin >> value;
-                head  = add(head,value,1);
+                int x;
+                cout<<"Enter the Position : ";
+               cin>>x;
+                head  = add(head,value,x);
                 break;
 
             case 2:
