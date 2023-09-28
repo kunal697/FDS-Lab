@@ -41,4 +41,4 @@ int main() {
     cout << "Sum of Array elements: " << ans;
 
     return 0;
-}```
+}
