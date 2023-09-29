@@ -11,7 +11,7 @@ This repository contains FDS Lab  Codes (PCCOE IT) :
 
 
  
-- [MergeLinkedlist.md](MergeLinkedlist.md)
+- [Merge Linked list ](MergeLinkedlist.md)
  
-- [ReverseStringUsingStack.md](ReverseStringUsingStack.md)
+- [Reverse String Using Stack ](ReverseStringUsingStack.md)
 
