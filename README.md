@@ -7,3 +7,13 @@ This repository contains FDS Lab  Codes (PCCOE IT) :
 4. [Singly Linked List](SinglyLinkedList.md)
 5. [Stack](Stack.md)
 
+**##MTE Practical Question##** 
+
+
+## Merge Linked List
+
+- [MergeLinkedlist.md](MergeLinkedlist.md)
+## Reverse String Using Stack
+
+- [ReverseStringUsingStack.md](ReverseStringUsingStack.md)
+
