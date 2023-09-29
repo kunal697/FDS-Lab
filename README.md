@@ -10,10 +10,8 @@ This repository contains FDS Lab  Codes (PCCOE IT) :
 **##MTE Practical Question##** 
 
 
-## Merge Linked List
-
+ 
 - [MergeLinkedlist.md](MergeLinkedlist.md)
-## Reverse String Using Stack
-
+ 
 - [ReverseStringUsingStack.md](ReverseStringUsingStack.md)
 
