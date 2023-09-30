@@ -15,3 +15,5 @@ This repository contains FDS Lab  Codes (PCCOE IT) :
  
 - [Reverse String Using Stack ](./MTEPractical/ReverseStringUsingStack.md)
 
+- [Library Question](./MTEPractical/Library.md)
+
