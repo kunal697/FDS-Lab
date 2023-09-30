@@ -6,8 +6,7 @@ three operation that you will be perform book deletion , book search by authure 
 #include <stdlib.h>
 #include <string.h>
 
-// Structure to represent a book
-struct Book {
+ struct Book {
     char title[100];
     char author[100];
     struct Book* next;
